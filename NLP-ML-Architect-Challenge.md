@@ -15,6 +15,8 @@ You will be scored on,
 - choice of algorithms and tools
 - appropriate use of source control
 
+We are more interested in approach and a working solution, quality of output at this stage is not a major issue.
+
 # Intructions
 
 - You can use any tool or languaues you want but we suggest you use some of the following: [Python](http://python.org), [Pandas](http://pandas.pydata.org/), [Scikit-learn](http://scikit-learn.org/), [Numpy](http://www.numpy.org/), [Scipy](https://www.scipy.org/), [Spark](http://spark.apache.org/), [Tensorflow](https://www.tensorflow.org/), [Jupyter Notebook](http://jupyter.org/)
