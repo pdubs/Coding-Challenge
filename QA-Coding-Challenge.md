@@ -3,7 +3,8 @@ This page consists coding challenge for QA and QA Lead roles at Isentia.
 
 # Challenge - 
 
-Find three issues on [Isentia](http://www.isentia.com/) website and write the automated regression tests that reproduce the failure across one or more browsers.
+Write tests to load the Isentia (http://www.isentia.com/) website , navigate to product&services -> isentia.mediaportal page and verify the three modules of media portal displayed.
+Tests must include verifying the no.of modules displayed and the names.
 
 ## Functional requirements
 
@@ -18,8 +19,9 @@ Find three issues on [Isentia](http://www.isentia.com/) website and write the au
 ## Non-functional requirements
 
 * Tests are written in javascript, using NodeJS
-* Tests are written against a BDD framework like `mocha`
+* Tests are written against using protractor
 * Tests cases describe expected behavior
+* Need to follow Page object model
 * Style guide: https://github.com/busbud/js-style-guide
 
 ### Bonus
@@ -29,11 +31,11 @@ Find three issues on [Isentia](http://www.isentia.com/) website and write the au
 
 ## What we're looking for
 
-1. Interesting or impactful issues
-1. Using high-quality existing libraries or small amounts of custom code
-1. Showing your work through your commit history
-1. Polish
-1. Pride in craftsmanship
+1. POM approach to project structure and use of generic xpaths/css paths
+2. Using high-quality existing libraries or small amounts of custom code
+3. Showing your work through your commit history
+3. Polish
+4. Pride in craftsmanship
 
 ## References
 
