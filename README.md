@@ -1,10 +1,10 @@
 # Coding challenge
-This Github repository consists of a set of coding challenges for various engineering roles at [Isentia](http://www.isentia.com/).
+This Github repository consists of a coding challenge for various engineering roles at SpankChain.
 
 # Purpose
 Aim of these coding challenges is three fold,
 
-- evaluate your coding abilities 
+- evaluate your coding abilities
 - judge your technical experince
 - understand how you design a solution
 
@@ -16,15 +16,36 @@ You will be scored on,
 - overall solution design
 - appropriate use of source control
 
-# Intructions
+# Instructions
 Depending on the role your are applying, please take one of the following challenges,
 
-- [Data Engineer](https://github.com/Isentia/Coding-Challenge/blob/master/Data-Engineer-Coding-Challenge.md)
-- [UI Engineer/UI Developer - Angular](https://github.com/Isentia/Coding-Challenge/blob/master/UI-Engineer-Angular-Coding-Challenge.md)
-- [Software Engineer/Sr. Software Engineer - Full Stack JavaScript](https://github.com/Isentia/Coding-Challenge/blob/master/Software-Engineer-Full-Stack-JavaScript-Coding-Challenge.md)
-- [Automation Engineer/Continuous Delivery Lead ](https://github.com/Isentia/Coding-Challenge/blob/master/Continuous-Delivery-Coding-Challenge.md)
-- [Software Engineer - Groovy/Grails](https://github.com/Isentia/Coding-Challenge/blob/master/Software-Engineer-Groovy-Grails-Coding-Challenge.md)
-- [QA/QA Lead](https://github.com/Isentia/Coding-Challenge/blob/master/QA-Coding-Challenge.md)
+- Please use JavaScript, NodeJS, ExpressJS, and Angular6+ for the following challenge
+- Candidate should put their test results on a public code repository hosted on Github
+- Once test is completed please share the Github repository URL to hiring team so they can review your work
 
+# Challenge: Trail Management Web App
 
-Candidate should put their test results on a public code repository hosted on Github. Once test is completed please share the Github repository URL to hiring team so they can review your work.
+Create a simple web application to manage a list of trails.
+
+## Details
+
+- Use JavaScript, NodeJS, and ExpressJS to implement a basic CRUD API
+- (Optional) Use any preferred tools to manage the database connection and schema (such as Knex, Sequelize, or TypeORM)
+- GET all trails (Sample API Response)[https://gist.githubusercontent.com/pdubs/6df6ad3b3bb5640875fab5234dacdb30/raw/dc1d26bce383aad4f8570a9d2c812e9e085ce34a/data.js]
+
+## Requirements
+
+- API: CRUD endpoints for /trail route (GET trail by name, GET all trails, GET trail by difficulty)
+- UI: A simple list of trails and their information
+
+## UI Bonus (not required)
+
+- Avoiding page reloads on form submits in the UI
+- Creating New Trail & Delete Trail functionality in the UI
+- Using CSS boilerplate such as milligram or twitter bootstrap to standardize the UI
+- A grid view of the trails with a thumbnail photo displayed in the UI
+
+## API Bonus (not required)
+
+- Supporting creation of many trails with one request in the API
+- Creating additional endpoints that allow for unforeseen use cases in the API
