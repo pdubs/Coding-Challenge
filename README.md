@@ -18,7 +18,7 @@ You will be scored on,
 
 # Instructions
 
-- Please use JavaScript, NodeJS, ExpressJS, and Angular6+ for the following challenge
+- Please use JavaScript, NodeJS, ExpressJS, and a front-end library or framework of your choice (React, Angular, etc.) for the following challenge
 - Candidate should put their test results on a public code repository hosted on Github
 - Once test is completed please share the Github repository URL to hiring team so they can review your work
 
