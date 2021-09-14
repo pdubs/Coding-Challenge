@@ -33,9 +33,10 @@ Create a simple web application to manage a list of trails.
 
 ## Requirements
 
-- API: CRUD endpoints for /trail route (GET all trails, GET trail by name, , GET trail by difficulty)
-  - GET all trails [Sample API Response](https://gist.githubusercontent.com/pdubs/6df6ad3b3bb5640875fab5234dacdb30/raw/17ced06db226b9486dca46f18c8fe94f41887000/response.js)
+- API: CRUD endpoints for /trail(s) route 
 - UI: A simple list of trails and their information
+  - List of all trails and their information
+  - Ability to filter by difficulty
 
 ## UI Bonus (not required)
 
