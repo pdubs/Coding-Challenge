@@ -30,11 +30,11 @@ Create a simple web application to manage a list of trails.
 
 - Use JavaScript, NodeJS, and ExpressJS to implement a basic CRUD API
 - (Optional) Use any preferred tools to manage the database connection and schema (such as Knex, Sequelize, or TypeORM)
-- GET all trails [Sample API Response](https://gist.githubusercontent.com/pdubs/6df6ad3b3bb5640875fab5234dacdb30/raw/17ced06db226b9486dca46f18c8fe94f41887000/response.js)
 
 ## Requirements
 
 - API: CRUD endpoints for /trail route (GET trail by name, GET all trails, GET trail by difficulty)
+  - GET all trails [Sample API Response](https://gist.githubusercontent.com/pdubs/6df6ad3b3bb5640875fab5234dacdb30/raw/17ced06db226b9486dca46f18c8fe94f41887000/response.js)
 - UI: A simple list of trails and their information
 
 ## UI Bonus (not required)
