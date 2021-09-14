@@ -17,7 +17,6 @@ You will be scored on,
 - appropriate use of source control
 
 # Instructions
-Depending on the role your are applying, please take one of the following challenges,
 
 - Please use JavaScript, NodeJS, ExpressJS, and Angular6+ for the following challenge
 - Candidate should put their test results on a public code repository hosted on Github
