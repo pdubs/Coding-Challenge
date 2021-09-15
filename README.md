@@ -40,7 +40,7 @@ Create a simple web application to manage a list of trails.
 
 ## UI Bonus (not required)
 
-- Ability to filter by Elevation Gain 
+- Ability to filter by Elevation Gain (i.e. `/trails?minGain=3000` would return trail id=2)
 - Creating New Trail & Delete Trail functionality in the UI
 - Avoiding page reloads on form submits in the UI
 - Using a CSS framework such as milligram or twitter bootstrap to standardize the UI
