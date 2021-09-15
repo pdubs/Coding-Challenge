@@ -2,7 +2,7 @@
 This Github repository consists of a coding challenge for various engineering roles at SpankChain. Should you be invited for another interview, you will have the opportunity to review and pair program this exact challenge (with your code) with a SpankChain engineering team member. 
 
 # Purpose
-Aim of these coding challenges is three fold,
+Aim of this coding challenge is to:
 
 - evaluate your coding abilities
 - understand how you design a solution
